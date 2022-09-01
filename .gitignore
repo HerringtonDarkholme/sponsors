@@ -1,7 +1,6 @@
 pnpm-global
 
 # sponsorkit
-sponsorkit
 .cache.json
 
 .env
