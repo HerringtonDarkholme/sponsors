@@ -35,7 +35,7 @@ jobs:
         run: pnpm i --frozen-lockfile
 
       - name: Update sponsors
-        run: pnpm exec sponsorkit -w 800 --dir . && pnpm exec sponsorkit -w 1300 --name sponsors.wide --dir .
+        run: pnpm exec sponsorkit -w 800 && pnpm exec sponsorkit -w 1300 --name sponsors.wide
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: HerringtonDarkholme
