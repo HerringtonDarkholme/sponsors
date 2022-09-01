@@ -1,0 +1,29 @@
+pnpm-global
+
+# sponsorkit
+sponsorkit
+.cache.json
+
+.env
+
+# lock
+package-lock.json
+yarn.lock
+# pnpm-lock.yaml
+
+.DS_Store
+node_modules/
+dist/
+dist-ssr/
+*.log
+*.local
+
+lib/
+
+# vite
+.vite-ssg-dist
+.vite-ssg-temp
+
+# vitesse
+components.d.ts
+auto-imports.d.ts

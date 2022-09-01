@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "sponsorkit": "sponsorkit"
+  },
+  "dependencies": {
+    "sponsorkit": "^0.4.2"
+  }
+}
