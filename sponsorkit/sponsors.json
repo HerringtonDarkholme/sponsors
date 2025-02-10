@@ -106,9 +106,9 @@
       "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAASFBMVEVMaXH////////////////////////5+fn////////////////////////9/f3m5ubIyMjV1dXd3d3Q0NDv7++/v7+vr6+jo6Ob3jEvAAAADXRSTlMAW6V8uQnZ+xyVLsczUE4XlwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAm5JREFUSMeNVgmS4yAMxIlj2ZNpgQRk/v/TLXwKX1mlUmVjmm4dCJw7WN8MbUfM1LVD07uv1j87rqx73qN+HvNEjL/5uf29Znhgmb7DPS6YGuJLo+YE8Br41obXAdGu2o3BjLU7zOsNJo0xWIsxkVno/ao5wJqlfIcxCkETznkG5hBHFdgJ0+CNPyZWjCBpXE93HoGC34bWuPUEFUgCI2QUaTWG1nda8vNgBPYBjBgD4EMacTMYBsKPCfHLSJFigmZPASn6QEgxJM5ZSUn9VhT4WUkS5ZiVioqoiOwziYonzYoUjc6Rpi8ujK4XKekjQNDAjJgneRy2kmMUb54MxDX6owsxj+W2hDfYcDydcx35IGvNT4GBfUNWU9dd0eXlT5a5FXKxj4gZ6V0DVfFVJgzRJCxlbDSNG+BFTCGB0r6chcx3HlzLSGLWhFUxJWRecWZpXcdQW1hQvy+zeqRzxBDFxVacVk9iWECOLyHzvFJOVgUfITCVjLmWt4CB+SAMPorut4z9TsV9L1X/SYlOINjS35YC9FZMvcUYO+Ft2fZIwaeqT1Q9Y0rUyjK4ZqIO6ivTKPNTlDqQjetndi8isfxHk/z3CTIa7TLQO9dtLpxb3Te7cYvdGjwVF/xC9pw28i2k7FgNnjZdpV2s4bAnkYVsmZq60g8OxWXgI2T1ZG5KpSt9YaElDMPaYG9YOBLYq2qyDbak85KFRBmkKgngpjosLn3JeU6ahqE+9i598XOvwKc++l7vS1/WaL1fh+P1nOXyeK0O8dNQHA/x6apwyXJ6VRiJcGCZovbov197qpjdXHuqy9Wi8Nvl6r+ucP8AUCVr3LsJcusAAAAASUVORK5CYII="
     },
     "isOneTime": false,
-    "monthlyDollars": 10,
+    "monthlyDollars": 5,
     "privacyLevel": "PUBLIC",
-    "tierName": "$10 a month",
+    "tierName": "$5 a month",
     "createdAt": "2023-11-04T06:46:52Z"
   },
   {
