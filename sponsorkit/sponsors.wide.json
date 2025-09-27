@@ -369,22 +369,6 @@
   },
   {
     "sponsor": {
-      "login": "729993031",
-      "name": "Xiao Chen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13050361?v=4",
-      "type": "User",
-      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAOVBMVEVMaXH///////+p4PH////x///////+//////////+g1eWZy9vx8PDv7++ezdzq7e/18/KUyNnW5emqpjCTAAAAC3RSTlMAb5noxrMY6zNP9A6W3KUAAAAJcEhZcwAACxMAAAsTAQCanBgAAANGSURBVGje5ZvJcsMgDEANBgsS4SX//7GdpHabjIVZBYfo2KF5gxBY6zAki7FCKgUAiACglBTWDMxihAYkBbTgok9e6Bt8qo61esUYUbaqhiVgpDgEWUvnRmOiVNm2VZghxWijXKaoEoVPEgtEZpu4BbcUiAORt13lcJnz5f5YnZpytotP8HbPle2xOoRkIxOvO7nM9zIwOpmoZqwERkxRtwGsB0Ywidxa4GiyBawLjjQx+/bgVwLjalO4FcERZAMsYFxNPLcqOGBhEyAXGOHqPivkA6PycyVygv2vp3WsYHQ25oAZwL5jVsgNpo9ZnP2mYvBJRISin1IIJoKNs7Il6V8VgYlfPFu2of2re4HQfpg5WVaJf0VvmVS/Ol3hZb6zy9PgPi+zagdWnx/hdmA0HyfcEKzeTbol+G3Lsi34/y5DWzC8+3ctwXjcKN0arPfPw9oavE5/gWFbMIo/TTcG68OmW4Nhfz2ag19viOgBFscRtwbr44hbg5+HfOnKbgVyBcbDtjzg7VEg8xXYHIG4D7ziminuEmx3o/aCMTeJ6tvIDhZHhBhamCqh35NHxNQarPqBoQ8Y+oHXXmDsA8Z+4G6q/jKrdvBtL5dT/T4Sog9YBB0BJrANuT5cYHPt7PGBA+4tGxgCDj0bWAdCGDawCARtbGATCFO5wBAKzLnAOpSK4AKLUPKFCbwnXy7STUxgHUywMYFtMKXIA4ZwEpUHLMNpYx6wCSfKWcA6ojTAAjYRxRAOsIop/5D1QYencm9KKsKeC17kQnI3oT+gpy55Lni9SnzUQqo+SOw4si65nUt8gyQTbJ4+rfN5xtUlt4ckyrjkyhiDi+/72haiZi4ic5k0OPJ/yWY6zQ/WdHPCyA0ePT0olhvs7TSSvOCL9j3NCR6vmoxGPvB42TQYQc4Ej6GGrhsP+BZsGLQzB3iOadqb64PnuDbFW23wLbID14x1wbf4VtSxJnhM6C2fdD2wTuuxFrXAaW3OTxMba4DHjOmBSXtqhhTYU4TUef37diFrhgvh7NEL85r3X+MKVNGQcm+pdbJkIocc0Ihy6FXpRIzpM5Iy9BvCGdLGjrDi2NGvhXcZtPo18T6jZbvOewzT/dOrjA/+AHjDEGZRqrcVAAAAAElFTkSuQmCC",
-      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAASFBMVEVMaXH///////////////////////////////////////+58/3p9PeZy9vx8PDv7+/28vGTydqXytrl6+3C3OTT4+mgz9292+SG4pBcAAAADXRSTlMAFO8hCNBtSuCUttPI6+yuvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAoVJREFUWMOtmdmSgyAQRRFlrzS45v//dCpOZqQFFIH7lFTpqUahlysh1+oEV5pJ6hyVTCsuOlKuQShm4STLlBiKcEJRSIgq8Tg4LuFSkg/PcPZWD5BCuizJvIX32q6ZmnWfER6F+TXmaXb0LshBgYV5m145mmawoC6fZMfgKRBYd817DASWfJD9vvceA0H2V7wCYIK4r7cMGH2OA4NyILDwXSuoAVoV7GeoAgKcdnhPj1P/CPgvil+M9lNTPtB5d2m0YDv7ygWu/m3WW/Qg19fm6ZUJRPcs8njT3K3j5CuH+LnK07g4fgTo1hFfnBeh/2dc3H+I3J6BBRoXZ/9ClK2A8m9PtwJ+d7dqB9wP4EDbAenwe4qbAfc1q5bAz5pZSyAjpLMBcMqmTGcgdHsiRMBpyq3zo39Ev0BBOIQRvpcsvSMR8j31n4FzXrNktxCo9tQaAMFmCCfiL1ATFgfCreJARmRboCS0LZAS1xRoXWMguMZLtrT9S2m+bXRboI4fvXKgiiaHCiAP01cdUEQTbAWwi5WACiCLFqkKoIqW0QqgiBb6cuBe6MNWpByo4s1SOVDE27lioEw0nMVAnmiJT1XvoFu4rHpH186DuoxDif08zzN+0/4ZKxAQzx8owuQ8M/pjBREYiOcPdwBdep4ZFzTtadQsneYPH5icZ0aNh8ftYv5AwFQ7t52menHdSCaAngIDR9UBVWgRmBqgidhBnSkHmqgZ1JtSoEkZN6YMaJLWUmzV90Bz4flFiLdAc+0bqxtgMMOoO+NUbKdh5I0jxNoyXNNe42Fk9bPNjCeVHMs0MHVxPiwwdQPbOZGxHzvZLY3x32fZ1Lr//7gQ0oo/Lny3+tPPHz89Gxt+cKampgAAAABJRU5ErkJggg==",
-      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAP1BMVEVMaXH////////O///////////////////////////////w8PCZy9uUydrt7+/18/Kr0+DF3uajz92gzty62eTlmumaAAAAC3RSTlMAMHy+tlsP4pkdyG/b6b4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAGJSURBVEjHnZbbloMgDEVRoQRTLqL//62zRECgIDjnTcsuJB6SEPIjwYByrjXnFJggXYmZYyY+P1MTYEV0au9QBRBR0cZOjG/WVGU3zmoEKL3Jhg6t4Af4UDyRb1UngvRTECv2EFxzhmIfQZrFgSMIJvEw5fSIOMW8Ca4vPSCXePg+sHmZFmLCCn+0CW3I/7cl//uuJp8t016byyqXNYHDiLQKz2jmd8hMCOHvEO7O9QpBQViKtJKcIsx5JSJ7QykCzpAekQeqqtDbwiH0jP5GdP0i6xThOYKqevULRGcI9hH9GlG6OBiOHOwfCH2L0PRTjiGQGmYMYaktxxCRmn8IWbMrNoTM2UUeQbTIysXt5Ht16WTwRel2sle08PWU7OIbGgQkVriwTVETpQ1VWRwyK3DyG5CiJkoT+wUr7vweEFPUgKT9QQvJ/ytrfssIsuSNb+kjS9kslx5SEmc8MTsyRcJbqI4Kxl7aTUR2/8qw+njxAVUYJjyDeBh79LuxpzpcrfPISNYZ4f4AKOVgzDlFYtEAAAAASUVORK5CYII="
-    },
-    "isOneTime": false,
-    "monthlyDollars": 5,
-    "privacyLevel": "PUBLIC",
-    "tierName": "$5 a month",
-    "createdAt": "2025-07-26T12:20:17Z"
-  },
-  {
-    "sponsor": {
       "login": "kam193",
       "name": "Kamil Mańkowski",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8472271?v=4",
